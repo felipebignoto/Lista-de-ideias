@@ -235,6 +235,10 @@ form button:hover{
     visibility: hidden;
 }
 
+.hide{
+    display: none;
+}
+
 /*IDEA.HTML*/
 #page-ideas #container{
     display: block;
