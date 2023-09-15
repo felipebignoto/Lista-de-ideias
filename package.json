@@ -6,7 +6,7 @@
   "scripts": {
     "start": "node server.js",
     "dev": "nodemon server.js",
-    "build": "cp -r src public"
+    "build": "cp -r * public"
   },
   "repository": {
     "type": "git",
